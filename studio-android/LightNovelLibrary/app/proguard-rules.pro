@@ -2,7 +2,7 @@
 # By default, the flags in this file are appended to flags specified
 # in /home/mewx/Programs/AndroidSDK/adt-bundle-linux-x86_64-20140702/sdk/tools/proguard/proguard-android.txt
 # You can edit the include path and order by changing the proguardFiles
-# directive in build.gradle.
+# directive in build.gradle.kts.
 #
 # For more details, see https://developer.android.com/build/shrink-code.
 
